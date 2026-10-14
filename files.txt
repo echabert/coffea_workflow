@@ -1,0 +1,15 @@
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_10.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_11.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_12.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_13.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_14.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_35.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_36.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_37.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_3.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_4.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_5.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_6.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_7.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_8.root
+root://sbgdcache.in2p3.fr//cms/phedex//store/user/xmadre/SIM_MC_Part/DYJetsToLL_0J_MLL_400_800_TuneCP5_13TeV-amcatnloFXFX-pythia8/Analysis_DYJetsToLL_0J_MLL_400_800_CodeV1p2/251216_143852/0000/output_9.root
